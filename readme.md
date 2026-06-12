@@ -4,7 +4,7 @@ This project allows you to upload an audio file (MP3, WAV, FLAC) and automatical
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. The frontend is built using **Next.js + Tailwind CSS**.
 2. The backend (Flask API) handles audio file processing and genre prediction.
@@ -13,7 +13,7 @@ This project allows you to upload an audio file (MP3, WAV, FLAC) and automatical
 
 ---
 
-## 🖼️ SampleUser Flow
+## SampleUser Flow
 
 1. **Homepage → Genre Classifier**
 2. **Upload audio file** (drag-and-drop or browse)

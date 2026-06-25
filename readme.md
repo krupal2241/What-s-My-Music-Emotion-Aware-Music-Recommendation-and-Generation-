@@ -1,4 +1,4 @@
-# 🎵 Genre Classifier - Audio Genre Detection using AI
+# Genre Classifier - Audio Genre Detection using AI
 
 This project allows you to upload an audio file (MP3, WAV, FLAC) and automatically detects its **primary music genre** using a trained AI model.
 
